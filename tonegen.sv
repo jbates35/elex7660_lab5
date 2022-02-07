@@ -57,6 +57,6 @@ module tonegen
             write_detect <= write; // Take in frequency
         end
     end : clk_ff
-endmodule;
+endmodule
 
 // shoulda done this with a state machine
