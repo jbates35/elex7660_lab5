@@ -59,3 +59,4 @@ module tonegen
     end : clk_ff
 endmodule;
 
+// shoulda done this with a state machine
